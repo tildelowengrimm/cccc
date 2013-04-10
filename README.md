@@ -7,5 +7,5 @@ This idea began with an explanation by gmaxwell on #bitcoin-dev. The meme spread
 
 This repository is subject to a [CC-BY-SA]() license.
 
-@wiretapped: https://twitter.com/wiretapped
-CC-BY-SA: https://creativecommons.org/licenses/by-sa/3.0/
+    @wiretapped: https://twitter.com/wiretapped
+    CC-BY-SA: https://creativecommons.org/licenses/by-sa/3.0/
