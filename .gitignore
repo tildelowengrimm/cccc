@@ -1,0 +1,20 @@
+#compiled site
+/_site
+/_site*
+
+#the directory of stuff to ignore
+/_ignore
+
+#deploy credentials file
+/_creds
+
+#the to-do file
+_todo.markdown
+
+#everything greated by editors
+*~
+*/*~
+*/*/*~
+*#
+*/*#
+*/*/*#
